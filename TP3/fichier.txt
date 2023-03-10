@@ -1,0 +1,20 @@
+oui chaine
+non
+je
+tu chaine
+il
+elle chaine
+on
+nous
+vous
+ils
+elles chaine
+ma
+mon
+ton
+ta
+leur
+notre
+votre chaine
+leurs chaine
+toto
